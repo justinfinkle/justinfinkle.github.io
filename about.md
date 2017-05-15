@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently a PhD Candidate studying Systems and Computational Biology in the [Bagheri Lab](http://bagheri.northwestern.edu/) at Northwestern University. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have experience with several programming languages including (from most experience to least):
+* Python
+* R
+* Matlab
+* C++
+
+For more detail on my professional experiences, take a look at my [CV]({{ site.url }}/files/Justin_Finkle_CV.pdf)
 
 ### Contact me
 
