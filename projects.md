@@ -4,12 +4,4 @@ title: Projects
 permalink: /projects
 ---
 
-Off
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[justinfinkle888@gmail.com](mailto:justinfinkle888@gmail.com)
+For the time being, you should probably just check out my standard [GitHub user page](https://github.com/justinfinkle).
